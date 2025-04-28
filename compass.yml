@@ -1,0 +1,16 @@
+name: medusa-starter-default
+id: ari:cloud:compass:4c8a4977-94f9-4b27-af46-0e455a884ec3:component/71f7fb19-c761-41ec-ba63-d27b9cec9943/b7660b40-00d4-4ff2-be63-18b186fb9b23
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/shortrunpro/medusa-starter-default
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
